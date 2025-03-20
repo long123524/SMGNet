@@ -79,7 +79,7 @@ For testing and validation datasets, the same structure as the above.
 
 ## Datasets
 
-A preprocessed data of HRSCD will be provided
+A preprocessed dataset is available at https://drive.google.com/file/d/1nvtgmqFSm99CWDvmyOnS-IRqpstBGTXc/view?usp=sharing.
 
 ## Training and testing
 
